@@ -1,0 +1,10 @@
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\bin\Debug\Project 1 reandom Characters.exe.config
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\bin\Debug\Project 1 reandom Characters.exe
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\bin\Debug\Project 1 reandom Characters.pdb
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\obj\Debug\Project 1 reandom Characters.csproj.AssemblyReference.cache
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\obj\Debug\Project_1_reandom_Characters.Form1.resources
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\obj\Debug\Project_1_reandom_Characters.Properties.Resources.resources
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\obj\Debug\Project 1 reandom Characters.csproj.GenerateResource.cache
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\obj\Debug\Project 1 reandom Characters.csproj.CoreCompileInputs.cache
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\obj\Debug\Project 1 reandom Characters.exe
+C:\Users\TOPTECH\source\C#\Project 1 reandom Characters\obj\Debug\Project 1 reandom Characters.pdb

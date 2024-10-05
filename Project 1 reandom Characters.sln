@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project 1 reandom Characters", "Project 1 reandom Characters.csproj", "{BEDBF87B-2DD0-487D-B323-88C659F7DBDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEDBF87B-2DD0-487D-B323-88C659F7DBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDBF87B-2DD0-487D-B323-88C659F7DBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDBF87B-2DD0-487D-B323-88C659F7DBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDBF87B-2DD0-487D-B323-88C659F7DBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08CA144E-7532-4446-B65A-1CFB2EEE7149}
+	EndGlobalSection
+EndGlobal
